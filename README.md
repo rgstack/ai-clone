@@ -122,4 +122,4 @@ Python (`uv`) · Markdown · sqlite-vec + FTS5 · Claude Code · launchd · GCP 
 
 ## Code access
 
-The clone's code is private to protect personal memory, credentials, and the SOUL file that makes it *me*. If you're evaluating me for a role, email **REDACTED** and I'll grant 14-day read access.
+The clone's code is private to protect personal memory, credentials, and the SOUL file that makes it *me*. If you're evaluating me for a role, **contact me** and I'll grant 14-day read access.
