@@ -115,8 +115,7 @@ Python (`uv`) · Markdown · sqlite-vec + FTS5 · Claude Code · launchd · GCP 
 - [**rgstack/planning-team**](https://github.com/rgstack/planning-team) — rival-pair expert debate skill
 - [**rgstack/wiki-mcp**](https://github.com/rgstack/wiki-mcp) — local semantic + full-text search MCP server over markdown
 - [**rgstack/blogging**](https://github.com/rgstack/blogging) — rajangupta.ai source (Hugo)
-- [**rgstack/meditation-website**](https://github.com/rgstack/meditation-website) — Fly meditation companion site (Hugo)
-
+  
 ---
 
 ## Code access
