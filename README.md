@@ -4,7 +4,7 @@
 
 Private codebase. Public README.
 
-**Author:** Rajan Gupta · REDACTED · [rajangupta.ai](https://rajangupta.ai)
+**Author:** Rajan Gupta · [rajangupta.ai](https://rajangupta.ai)
 
 ---
 
