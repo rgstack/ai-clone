@@ -26,9 +26,8 @@ No framework. No managed database. No cloud-only SaaS.
 
 ## Hosting — $0/month
 
-The always-on remote body runs on **two GCP Compute Engine `e2-micro` instances** under Google's Always Free tier.
+The always-on remote body runs on **one GCP Compute Engine `e2-micro` instances** under Google's Always Free tier.
 
-- **firstinstance** — us-east1-c — primary brain
 - **secondinstance** — us-central1-b — redundancy + experiments
 
 Everything else is local: macOS for compute, launchd for scheduling, sqlite for state, markdown for memory. No vector DB subscriptions, no observability SaaS, no managed anything.
